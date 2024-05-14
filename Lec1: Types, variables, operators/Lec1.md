@@ -10,5 +10,6 @@ class classname{
 
 ### variables
 The types are like C++, except  
+  
 bool ->  boolean  
 string -> String
