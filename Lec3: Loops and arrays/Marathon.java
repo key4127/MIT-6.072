@@ -1,7 +1,7 @@
 package Marathon;
 
 public class Marathon {
-	public static void findFastestRunner(String[] names, int[] times) {
+	public static void findFastestRunner(String[] names, int[] times) { // If return the index, the codes will be much more simpler.
 		int time = times[0];
 		String name = names[0];
 		for (int i = 0; i < names.length; i++)
